@@ -1,3 +1,4 @@
+
 Google Java代码风格
 ======================
 本文档翻译自Google官方发布的Java代码风格规范
@@ -10,7 +11,7 @@ Google官方原文[链接](http://google-styleguide.googlecode.com/svn/trunk/jav
 * 配置文件 eclipse-java-google-style.xml
 * 在Eclipse中执行导入：Window -> Preferences -> Java -> Code Style -> Formatter -> Import
 
-##IntelliJ IDEA导入代码分割配置文件
+##IntelliJ IDEA导入代码风格配置文件
 * 配置文件 intellij-java-google-style.xml
 * 在IntelliJ IDEA中执行导入：IntelliJ IDEA -> Preferences -> Editor -> Code Style ->  Java -> Manager -> Import
 
